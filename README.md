@@ -1,2 +1,2 @@
-<header><b></b>This is my overall preparation for matura exam</b></header>
+<header><b>This is my overall preparation for matura exam</b></header>
 <p>Here I learned, objected programming, automation, positional systems, loads of algorithms(Euclides, Sieve Of Eratosthenes, binary search, bisection, merge sort, bubble sort, quick sort, Newton Raphson method), Dynamic structures, Complexity of alghoritms, Reading different file formats, ciphers(caesar, vigenere, substition) and many other things that led me to have comprehensive knowledge about programming in python</p>
